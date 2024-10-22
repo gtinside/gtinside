@@ -1,8 +1,16 @@
 # Hello there 👋, I'm Gaurav
 
-### Engineering Manager/Lead/Product Development
+### Engineering Manager | Technical Lead | Product Development Enthusiast
 
-- 🔭 I’m currently working on: __Data Platforms & AI Ops__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
+🔭 __Current Focus__
+- Building Data Platforms and implementing AI Ops for a multi-billion dollar Hedge Fund.
+- Exploring advanced distributed systems architecture and best practices for scalability and reliability. 
+
+🌱 __What I am learning__
+- LLM specifically RAG
+- Machine Learning
+- Python, C++
+
+💬 __Ask me about__ 
+- Distributed Systems, Engineering Management, DevOps, SRE and Cloud Engineering
 <br/>
