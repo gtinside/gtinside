@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Gaurav
 
-### Engineering Manager | Technical Lead | Product Development Enthusiast
+### Engineering Manager | Technical Lead | Product Development Enthusiast | ![](https://komarev.com/ghpvc/?username=gtinside&color=green)
 
 🔭 __Current Focus__
 - Building Data Platforms and implementing AI Ops for a multi-billion dollar Hedge Fund.
